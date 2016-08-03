@@ -1,0 +1,8 @@
+container myplat localhost 1099
+manager agentLogic.Manager 5
+aleatorio_1 agentLogic.JogadorAleatorio
+ganancioso_1 agentLogic.JogadorGanancioso
+ganancioso_2 agentLogic.JogadorGanancioso
+gastador_1 agentLogic.JogadorGastador
+gastador_2 agentLogic.JogadorGastador
+3
